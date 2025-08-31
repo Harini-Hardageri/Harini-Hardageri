@@ -1,13 +1,13 @@
 <h1 align="center">Hi there👋, I'm Harini Hardageri</h1>
 <h3 align="center">Full Stack Web Developer | JavaScript, Node.js, React, MongoDB</h3>
 
-- 🔭 I have done web development internships **at Corizo EduTech and Doodleblue Innovations**
+- 🔭 I have done web development internships at **Corizo EduTech and Doodleblue Innovations**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-harini-hardageri.netlify.app](https://portfolio-harini-hardageri.netlify.app)
 
 - 📫 How to reach me **harinih28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk](https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk)
+- 📄 Check out my resume [https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk](https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
