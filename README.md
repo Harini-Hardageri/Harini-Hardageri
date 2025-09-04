@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harinih28@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk](https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk)
+- 📄 Check out my resume <a href="https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk(https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk"> Resume Link </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
 <h3 align="left">💻 Tech Stack (Languages and Tools Known):</h3>
 <p align="left"> 
  <h3>Programming Languages:</h3>
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/devicons/c/c original.svg" alt="C" width="40" height="40"/> </a>
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/devicons/c/c-icon.svg" alt="C" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  
