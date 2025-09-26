@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Harini Hardageri</h1>
-<h3 align="center">Full Stack Web Developer | JavaScript, Node.js, React, MongoDB</h3>
+<h3 align="center">Full Stack Web Developer | JavaScript, Node.js, React.js, MongoDB</h3>
 
 - 🎓 Completed **B.E in CSE** Stream at BITM College, Karnataka in 2023.
 
