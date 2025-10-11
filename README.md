@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at **[https://portfolio-harini-hardageri.netlify.app](https://portfolio-harini-hardageri.netlify.app)**
 
-- 📫 How to reach me **harinih28@gmail.com**
+- 📫 How to reach me: **harinih28@gmail.com**
 
-- 📄 Check out my resume <a href="https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk(https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk"> **Resume Link** </a>
+- 📄 Check out my resume: <a href="https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk(https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk"> **Resume Link** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
