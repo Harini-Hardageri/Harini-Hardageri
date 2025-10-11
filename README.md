@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Harini Hardageri</h1>
 <h3 align="center">Full Stack Web Developer | JavaScript, Node.js, React.js, MongoDB</h3>
 
+<img width="1584" height="396" alt="Profile Banner" src="https://github.com/user-attachments/assets/a5821381-0850-4edc-9d1a-7174990cccc0" />
+
 - 🎓 Completed **B.E in CSE** Stream at BITM College, Karnataka in 2023.
 
 - 💼 Worked as a Web Developer Intern at **Corizo EduTech and Doodleblue Innovations**
