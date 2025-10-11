@@ -5,15 +5,15 @@
 
 - 💼 Worked as a Web Developer Intern at **Corizo EduTech and Doodleblue Innovations**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-harini-hardageri.netlify.app](https://portfolio-harini-hardageri.netlify.app)
+- 👨‍💻 All of my projects are available at **[https://portfolio-harini-hardageri.netlify.app](https://portfolio-harini-hardageri.netlify.app)**
 
 - 📫 How to reach me **harinih28@gmail.com**
 
-- 📄 Check out my resume <a href="https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk(https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk"> Resume Link </a>
+- 📄 Check out my resume <a href="https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk(https://drive.google.com/file/d/1JHfnC9zGp44qcZLOMtW8Zz7C1w5tvvO3/view?usp=drivesdk"> **Resume Link** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harini-hardageri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harini-hardageri" height="30" width="40" />LinkedIn</a>
+<a href="https://www.linkedin.com/in/harini-hardageri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harini-hardageri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Tech Stack (Languages and Tools Known):</h3>
